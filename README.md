@@ -9,3 +9,4 @@ Guiding principles for working with the raw materials for presentation on the we
 5. Design is finished in the browser
 6. Measure ratios, not pixels
 7. Establish a document outline
+8. [Fanciness is fool's gold](./08-fanciness-is-fools-gold.md)
